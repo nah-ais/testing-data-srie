@@ -1,0 +1,30 @@
+name,label,ap,jenis,status
+101.01.01,101.01.01 - Pelatihan kader contoh,AP05,Sponsor,aktif
+101.01.02,101.01.02 - Pendampingan keluarga contoh,AP05,Sponsor,aktif
+102.02.01,102.02.01 - Diskusi komunitas contoh,AP05,Non-sponsor,aktif
+103.03.01,103.03.01 - Kegiatan grant contoh,AP05,Grant,aktif
+104.04.01,104.04.01 - Kegiatan lama contoh,AP05,Non-sponsor,nonaktif
+201.01.01,201.01.01 - Pelatihan AP6 contoh,AP06,Sponsor,aktif
+202.02.01,202.02.01 - Diskusi AP6 contoh,AP06,Non-sponsor,aktif
+301.01.01,301.01.01 - Kegiatan grant AP7 contoh,AP07,Grant,aktif
+401.01.01,401.01.01 - Pelatihan AP8 contoh,AP08,Sponsor,aktif
+TMP-AP05-01,TMP-AP05-01 - Kode sementara (menunggu pemetaan Tim Program),AP05,,aktif
+TMP-AP05-02,TMP-AP05-02 - Kode sementara (menunggu pemetaan Tim Program),AP05,,aktif
+TMP-AP05-03,TMP-AP05-03 - Kode sementara (menunggu pemetaan Tim Program),AP05,,aktif
+TMP-AP05-04,TMP-AP05-04 - Kode sementara (menunggu pemetaan Tim Program),AP05,,aktif
+TMP-AP05-05,TMP-AP05-05 - Kode sementara (menunggu pemetaan Tim Program),AP05,,aktif
+TMP-AP06-01,TMP-AP06-01 - Kode sementara (menunggu pemetaan Tim Program),AP06,,aktif
+TMP-AP06-02,TMP-AP06-02 - Kode sementara (menunggu pemetaan Tim Program),AP06,,aktif
+TMP-AP06-03,TMP-AP06-03 - Kode sementara (menunggu pemetaan Tim Program),AP06,,aktif
+TMP-AP06-04,TMP-AP06-04 - Kode sementara (menunggu pemetaan Tim Program),AP06,,aktif
+TMP-AP06-05,TMP-AP06-05 - Kode sementara (menunggu pemetaan Tim Program),AP06,,aktif
+TMP-AP07-01,TMP-AP07-01 - Kode sementara (menunggu pemetaan Tim Program),AP07,,aktif
+TMP-AP07-02,TMP-AP07-02 - Kode sementara (menunggu pemetaan Tim Program),AP07,,aktif
+TMP-AP07-03,TMP-AP07-03 - Kode sementara (menunggu pemetaan Tim Program),AP07,,aktif
+TMP-AP07-04,TMP-AP07-04 - Kode sementara (menunggu pemetaan Tim Program),AP07,,aktif
+TMP-AP07-05,TMP-AP07-05 - Kode sementara (menunggu pemetaan Tim Program),AP07,,aktif
+TMP-AP08-01,TMP-AP08-01 - Kode sementara (menunggu pemetaan Tim Program),AP08,,aktif
+TMP-AP08-02,TMP-AP08-02 - Kode sementara (menunggu pemetaan Tim Program),AP08,,aktif
+TMP-AP08-03,TMP-AP08-03 - Kode sementara (menunggu pemetaan Tim Program),AP08,,aktif
+TMP-AP08-04,TMP-AP08-04 - Kode sementara (menunggu pemetaan Tim Program),AP08,,aktif
+TMP-AP08-05,TMP-AP08-05 - Kode sementara (menunggu pemetaan Tim Program),AP08,,aktif

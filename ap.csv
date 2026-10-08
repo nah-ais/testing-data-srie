@@ -1,0 +1,7 @@
+level,name,label,parent
+provinsi,99,Provinsi Dummy,
+provinsi,98,Provinsi Contoh X,
+ap,AP05,AP Contoh 5,99
+ap,AP06,AP Contoh 6,99
+ap,AP07,AP Contoh 7,99
+ap,AP08,AP Contoh 8,98

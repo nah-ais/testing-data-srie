@@ -1,0 +1,18 @@
+level,name,label,parent
+kota,9901,Kota Contoh A,
+kota,9902,Kabupaten Contoh B,
+kota,lainnya,Lainnya (di luar daftar),
+kecamatan,990101,Kecamatan A1,9901
+kecamatan,990102,Kecamatan A2,9901
+kecamatan,lainnya,Lainnya (di luar daftar),9901
+kecamatan,990201,Kecamatan B1,9902
+kecamatan,lainnya,Lainnya (di luar daftar),9902
+kelurahan,99010101,Kelurahan A1-1,990101
+kelurahan,99010102,Kelurahan A1-2,990101
+kelurahan,lainnya,Lainnya (di luar daftar),990101
+kelurahan,99010201,Kelurahan A2-1,990102
+kelurahan,99010202,Kelurahan A2-2,990102
+kelurahan,lainnya,Lainnya (di luar daftar),990102
+kelurahan,99020101,Kelurahan B1-1,990201
+kelurahan,99020102,Kelurahan B1-2,990201
+kelurahan,lainnya,Lainnya (di luar daftar),990201
